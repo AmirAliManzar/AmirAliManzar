@@ -1,8 +1,3 @@
-
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I am <a href="https://www.amiralimanzar.ir" target="_blank" rel="noreferrer">Amir Ali Manzar</a> 👋
 </h3>
