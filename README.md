@@ -16,6 +16,6 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Languages](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,php&includeNames=true&theme=nautilus)](https://github.com/amiralimanzar)
 [![Frameworks](https://github-widgetbox.vercel.app/api/skills?frameworks=laravel,bootstrap&includeNames=true&theme=nautilus)](https://github.com/amiralimanzar)
 [![Libraries](https://github-widgetbox.vercel.app/api/skills?libraries=jquery&includeNames=true&theme=nautilus)](https://github.com/amiralimanzar)
-[![Tools](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,wordpress,woocommerce,apache,nginx,gradle&includeNames=true&themes=nautilus)](https://github.com/amiralimanzar)
+[![Tools](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,wordpress,woocommerce,apache,nginx&includeNames=true&theme=nautilus)](https://github.com/amiralimanzar)
 
 [![GitHub Stats](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/amiralimanzar)
