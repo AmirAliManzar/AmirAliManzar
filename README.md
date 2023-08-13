@@ -75,5 +75,4 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amiralimanzar)](https://github.com/amiralimanzar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiralimanzar&layout=compact)](https://github.com/amiralimanzar)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=amiralimanzar.ir)](https://www.amiralimanzar.ir/)
+[![Languages](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,php,java,kotlin&includeNames=true)](https://github.com/amiralimanzar)
