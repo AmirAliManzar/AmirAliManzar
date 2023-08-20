@@ -13,4 +13,4 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Libraries](https://github-widgetbox.vercel.app/api/skills?libraries=jquery&includeNames=true&theme=nautilus)](https://github.com/amiralimanzar)
 [![Tools](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,wordpress,woocommerce,apache,nginx&includeNames=true&theme=nautilus)](https://github.com/amiralimanzar)
 
-[![GitHub Stats](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/amiralimanzar)
+[![GitHub Stats](https://github-widgetbox.vercel.app/api/profile?username=amiralimanzar&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/amiralimanzar)
